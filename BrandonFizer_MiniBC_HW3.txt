@@ -1,0 +1,25 @@
+Brandon Fizer
+8/16/17
+	MiniBootCamp-HW3 : 
+	Objects-Properties-Methods-For/In Loop-Dot Notation & Bracket Notations
+
+Objects: 
+	-Objects are created to reference a thing(Nouns:Bike, Man, Building, Car, etc.)
+	-Obejects also store Properties(Adj) and methods(Verbs) related to the object(Noun).
+
+Properties:
+	-Properties(Adjective) are used inside an Object to store data that describe the object(Noun)
+
+Methods:
+	-Methods(verb) are block of code that makes the Object(Noun) do something.
+	
+For/In Loop:
+	-A For/In Loop is a way to cycle throung an Object's(Noun) Properties(Adj) one at a time 
+	to execute code;
+
+Dot Notation & Bracket Notation:
+	-Dot and Bracket Notations are a way to access a Property(Adj) of an Object(Noun)
+	-Both Dot and Bracket Notations work the same way except Dot Notation cannot be access by 
+	using a variable Name.
+	
+
